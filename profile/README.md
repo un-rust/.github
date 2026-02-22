@@ -1,10 +1,18 @@
 # Unified Rust Tools
 
+![Rustacean](https://img.shields.io/badge/rustacean-%23f54900?logo=rust)
+![Static Badge](https://img.shields.io/badge/crates.io-author-%23e8af3c)
+![Crates.io User Total Downloads](https://img.shields.io/crates/udt/335369)
+![Crates.io License](https://img.shields.io/crates/l/urlogger)
+![GitHub followers](https://img.shields.io/github/followers/un-rust)
+
 > [!CAUTION]
 > 
-> Clarification: inspired by @unjs, building a unified Rust tool library.
+> Clarification: inspired by [@unjs](https://unjs.io/packages), building a unified Rust tool library.
 
 Let's rewrite everything written in Rust.
+
+## Crates
 
 <!--START_SECTION:crates-->
 
