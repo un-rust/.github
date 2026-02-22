@@ -23,6 +23,8 @@ jobs:
         run: 'git config --global user.email "betterhyq@qq.com"'
       - name: Global Setup Git
         run: 'git config --global user.name "betterhyq"'
+      - name: Copy Readme
+        run: 'rm profile/README.md && cp README.md profile/README.md'
       - name: Add Changes
         run: git add .
       - name: Commit and Push
