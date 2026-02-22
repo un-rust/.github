@@ -22,7 +22,7 @@ Let's rewrite everything written in Rust.
 |[@camel](https://github.com/un-rust/camel)|Supports bidirectional conversion of variable strings between common naming formats.|![](https://img.shields.io/crates/d/camel)|
 |[@crates-readme-table](https://github.com/un-rust/crates-readme-table)|Update your README.md with your crates.io crates|![](https://img.shields.io/crates/d/crates-readme-table)|
 |[@find-cargo-toml](https://github.com/un-rust/find-cargo-toml)|Find Cargo.toml by walking up the directory tree|![](https://img.shields.io/crates/d/find-cargo-toml)|
-|[@promptt](https://github.com/betterhyq/promptt)|A interactive CLI prompts library, lightweight and easy to use.|![](https://img.shields.io/crates/d/promptt)|
+|[@promptt](https://github.com/un-rust/promptt)|Interactive CLI prompts library, lightweight and easy to use.|![](https://img.shields.io/crates/d/promptt)|
 |[@rwconfig](https://github.com/un-rust/rwconfig)|Read/write config files with get/set and dirty-tracking; save() writes all changes at once|![](https://img.shields.io/crates/d/rwconfig)|
 |[@urlogger](https://github.com/un-rust/urlogger)|Lightweight colored logger: `log(level, message)` with `RUST_LOG` filtering.|![](https://img.shields.io/crates/d/urlogger)|
 
