@@ -1,5 +1,9 @@
 # Unified Rust Tools
 
+![Rustacean](https://img.shields.io/badge/rustacean-%23f54900?logo=rust)
+![Static Badge](https://img.shields.io/badge/crates.io-author-%23e8af3c)
+![Crates.io User Total Downloads](https://img.shields.io/crates/udt/335369)
+
 > [!CAUTION]
 > 
 > Clarification: inspired by [@unjs](https://unjs.io/packages), building a unified Rust tool library.
