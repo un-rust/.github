@@ -16,7 +16,7 @@ Let's rewrite everything written in Rust.
 
 |package|introduction|total downloads|
 |---|---|---|
-|[@automd-rs](https://github.com/betterhyq/automd-rs)|It's a crate to update your README.md with your Cargo.toml, automatically. Supports badges, contributors, and with-automdrs blocks.|![](https://img.shields.io/crates/d/automd-rs)|
+|[@automd-rs](https://github.com/un-rust/automd-rs)|Update README.md with Cargo.toml, automatically. Supports badges, contributors, and other blocks|![](https://img.shields.io/crates/d/automd-rs)|
 |[@browser-paths](https://github.com/un-rust/browser-paths)|Get the path of the browser, support Chrome and Edge.|![](https://img.shields.io/crates/d/browser-paths)|
 |[@c12-parser](https://github.com/un-rust/c12-parser)|Toolbox for parsing and stringifying various formats, including JSON, JSON5, JSONC, INI, TOML, and YAML.|![](https://img.shields.io/crates/d/c12-parser)|
 |[@camel](https://github.com/un-rust/camel)|Supports bidirectional conversion of variable strings between common naming formats.|![](https://img.shields.io/crates/d/camel)|
