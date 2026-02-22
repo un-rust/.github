@@ -2,7 +2,7 @@
 
 > [!CAUTION]
 > 
-> Clarification: inspired by @unjs, building a unified Rust tool library.
+> Clarification: inspired by [@unjs](https://unjs.io/packages), building a unified Rust tool library.
 
 Let's rewrite everything written in Rust.
 
